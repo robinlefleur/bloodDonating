@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bloodDonating:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bloodDonating_jar</output-path>
+    <root id="archive" name="bloodDonating.jar">
+      <element id="module-output" name="bloodDonating" />
+    </root>
+  </artifact>
+</component>
